@@ -1,0 +1,2 @@
+This is a simple python script to solve a challenge.
+The challenge is to count the number of single pieces and to count different groups of pieces, given as an entry a list of plays of a person playng a puzzle. Each move is a connection between two pieces.
